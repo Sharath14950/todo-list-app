@@ -22,11 +22,7 @@ JavaScript: Functionality and interactivity.
 
 How to Use
 
-Clone this repository to your local machine:
-
-git clone https://github.com/your-username/todo-list-app.git
-
-Navigate to the project directory:
+Navigate to the project directory :
 
 cd todo-list-app
 
